@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "spring.blog.datasource.JdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.blog.datasource.JdbcUrl'"
+  },
+  {
+    "name": "spring.blog.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.blog.datasource.username'"
+  },
+  {
+    "name": "spring.blog.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.blog.datasource.password'"
+  },
+  {
+    "name": "spring.blog.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.blog.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.person.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.person.datasource.url'"
+  },
+  {
+    "name": "spring.person.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.person.datasource.username'"
+  },
+  {
+    "name": "spring.person.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.person.datasource.password'"
+  },
+  {
+    "name": "spring.person.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.person.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.person.datasource.JdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.person.datasource.JdbcUrl'"
+  }
+]}
